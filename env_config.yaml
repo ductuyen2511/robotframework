@@ -1,0 +1,13 @@
+# base_url: https://unsplash.com/
+base_url: http://www.demo.guru99.com/v4
+client_id: 0vWl8mRrYOv-Ajl3Rny5FtVkp6ODTiOCwgAqZ_uYbqQ
+client_secret: -u-gjl5pv21np-ZnIuu0XULr2KBqdwymrrJVZB08A4k
+redirect_uri: urn:ietf:wg:oauth:2.0:oob
+code: Ye_foO65Hzzb4-liB2vgsXjuq7VJWjNz0BzAgsVXVnQ
+grant_type : authorization_code
+Content-Type: application/json
+token: 0CjCeHz4lbg06xeChOVPQ3LkE9LMR-D74ABOLDQRUtY
+title:  Book Store
+description: Never Let You Go
+api_url: https://api.unsplash.com
+header: {"Authorization": "Bearer 0CjCeHz4lbg06xeChOVPQ3LkE9LMR-D74ABOLDQRUtY"}
