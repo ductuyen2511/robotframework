@@ -25,3 +25,4 @@ Test
     [Tags]    testt
     ${locator}=    Get Raw locator    ${dicHomepage}[lnk_here]
     ${texts}=    SeleniumLibrary.Execute Javascript    var elems = document.querySelectorAll("${locator}"); var text = []; for(elem in elems) {text.push(elem.innerText)}; return text;
+    Log To Console    ${texts}
